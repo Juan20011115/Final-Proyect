@@ -1,0 +1,33 @@
+/* header */
+
+.navbar{
+    background-color: #9A270E;
+}
+/* body */
+
+body{
+    background-color: antiquewhite;
+}
+ p{
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+H1{
+    margin-top: 100px;
+    text-align: center;
+    font-family: initial;
+}
+.container{
+    margin-top: 100px;
+    padding: auto;
+    overflow: hidden;
+    align-items: center;
+}
+
+.Item{
+    margin: 1em;
+    padding: 1em;
+    float: left;
+}
+
+/* footer */

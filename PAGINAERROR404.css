@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+
+    }
+
+    h1{
+        font-size: 60px;
+        font-family: fantasy;
+        color: black;
+    }
+
+    p{
+        font-family: monospace;
+        font-size: 15px;
+        font-style: oblique;
+        font-variant: initial;
+        color: black;
+    }

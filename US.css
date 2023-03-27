@@ -1,0 +1,26 @@
+/* header */
+
+.navbar{
+    background-color: #9A270E;
+}
+/* body */
+
+body{
+}
+.container{
+    margin-top: 100px; padding: auto; overflow: hidden; align-items: center;
+}
+
+.Item{
+    margin: 1em; padding: 1em; float: left;
+}
+
+.p section{
+	color: black;
+	text-justify: auto;
+	text-align: justify;
+	width: 80%;
+	margin: auto;
+	margin-top:100px;
+	font-size: 20px;
+/* footer */
